@@ -6,7 +6,7 @@ Repositorio con trabajos realizados durante mi curso de programación estructura
 
 - **Ejercicios básicos**: Problemas fundamentales de programación estructurada
 - **Proyectos intermedios**: Programas más complejos que aplican los conceptos
-- **Proyecto final**: Implementación completa que demuestra mis habilidades CON LA CREACIÓN DE UN GESTOR DE COMPONENTES ELECTRÓNICOS.
+- **Proyecto final**: Implementación completa que demuestra mis habilidades con la creación de un gestor de componentes electrónicos.
 
 ## Tecnologías utilizadas
 - Lenguaje de programación: C++
